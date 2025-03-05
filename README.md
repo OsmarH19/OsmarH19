@@ -6,14 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-   <style>
-        h1 { color: teal; text-align: center; }
-        h2 { color: darkorange; margin-top: 20px; }
-        h3 { color: dodgerblue; margin-top: 15px; }
-        p { color: #444; line-height: 1.6; max-width: 600px; margin: auto; text-align: justify; }
-    </style>
-</head>
-<h1>Hola, soy [Tu Nombre] 👋</h1>
+<h1>Hola, soy Osmar Huidobro👋</h1>
 <h2>Junior Developer | Angular | Laravel | Full-Stack Enthusiast</h2>
 
 <h3>🚀 Tecnologías y Herramientas</h3>
@@ -28,9 +21,8 @@
 
 <h3>📫 ¡Conéctate conmigo!</h3>
 <p>
-    ✉️ <a href="mailto:tuemail@example.com">Email</a> |
-    💼 <a href="https://www.linkedin.com/in/tuusuario/">LinkedIn</a> |
-    🌐 <a href="https://tuportafolio.com">Portafolio</a>
+    ✉️ <a href="mailto:tuemail@example.com">osmarhuidobro19@gmail.com</a> |
+    💼 <a href="https://www.linkedin.com/in/jeferson-osmar-huidobro-angeles-a1404719a/">LinkedIn</a>
 </p>
 
 <p style="text-align: center; color: gray; font-size: 14px;">
