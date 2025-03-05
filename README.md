@@ -6,7 +6,6 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-<h1>Hola, soy Osmar Huidobro👋</h1>
 <h2>Junior Developer | Angular | Laravel | Full-Stack Enthusiast</h2>
 
 <h3>🚀 Tecnologías y Herramientas</h3>
