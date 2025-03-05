@@ -6,14 +6,8 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil Profesional - GitHub</title>
     <script src="https://cdn.tailwindcss.com"></script>
-</head>
+
 <body class="bg-gray-900 text-white">
 
     <div class="max-w-3xl mx-auto p-8">
@@ -66,19 +60,13 @@
         <footer class="mt-8 text-center text-gray-500 text-sm">
             🚀 Siempre en constante aprendizaje y evolución.
         </footer>
-    </div>
 
-</body>
-</html>
-
- 
-
-
-  
-<Br>
+        <Br>
 <hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
+    </div>
 
-------
+</body>
+
