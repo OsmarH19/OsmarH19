@@ -6,62 +6,71 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
-  
-<hr>
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="[https://github.com/OsmarH19]" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
-  
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
- 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Profesional - GitHub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
 
-<Br>
-<hr>
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+    <div class="max-w-3xl mx-auto p-8">
+        <!-- Nombre y título -->
+        <div class="text-center">
+            <h1 class="text-4xl font-bold text-teal-400">Hola, soy [Tu Nombre] 👋</h1>
+            <p class="text-lg text-gray-400 mt-2">Junior Developer | Angular | Laravel | Full-Stack Enthusiast</p>
+        </div>
 
-<Br>
-<hr>
-<Br>
-<h1>Certifications! 🏆</h1>
-<Br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
+        <!-- Tecnologías -->
+        <section class="mt-8">
+            <h2 class="text-2xl font-semibold text-teal-300">🚀 Tecnologías y Herramientas</h2>
+            <ul class="grid grid-cols-2 md:grid-cols-3 gap-4 mt-4 text-gray-300">
+                <li>✅ Angular</li>
+                <li>✅ Laravel</li>
+                <li>✅ Bootstrap</li>
+                <li>✅ Tailwind CSS</li>
+                <li>✅ CSS3</li>
+                <li>✅ HTML5</li>
+                <li>✅ JavaScript (ES6+)</li>
+                <li>✅ jQuery</li>
+                <li>✅ Livewire</li>
+                <li>✅ SQL | MySQL</li>
+                <li>✅ Azure Studio</li>
+                <li>✅ APIs REST</li>
+            </ul>
+        </section>
+
+        <!-- Sobre mí -->
+        <section class="mt-8">
+            <h2 class="text-2xl font-semibold text-teal-300">📌 Sobre mí</h2>
+            <p class="text-gray-400 mt-2 leading-relaxed">
+                Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. 
+                Me encanta crear soluciones eficientes, optimizar código y desarrollar experiencias web modernas y escalables.
+                Busco formar parte de proyectos innovadores que representen un reto y permitan seguir creciendo profesionalmente.
+            </p>
+        </section>
+
+        <!-- Contacto -->
+        <section class="mt-8">
+            <h2 class="text-2xl font-semibold text-teal-300">📫 ¡Conéctate conmigo!</h2>
+            <div class="mt-4">
+                <a href="mailto:tuemail@example.com" class="text-teal-400 hover:underline">✉️ Email</a> |
+                <a href="https://www.linkedin.com/in/tuusuario/" class="text-teal-400 hover:underline">💼 LinkedIn</a> |
+                <a href="https://tuportafolio.com" class="text-teal-400 hover:underline">🌐 Portafolio</a>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="mt-8 text-center text-gray-500 text-sm">
+            🚀 Siempre en constante aprendizaje y evolución.
+        </footer>
+    </div>
+
+</body>
+</html>
+
  
 
 
