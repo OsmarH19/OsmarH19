@@ -20,7 +20,7 @@
 
 <h3>📫 ¡Conéctate conmigo!</h3>
 <p>
-    ✉️ <a href="mailto:tuemail@example.com">osmarhuidobro19@gmail.com</a> |
+    ✉️ <a href="mailto:jhuidobro@strategtic.com">jhuidobro@strategtic.com</a> |
     💼 <a href="https://www.linkedin.com/in/jeferson-osmar-huidobro-angeles-a1404719a/">LinkedIn</a>
 </p>
 
