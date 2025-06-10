@@ -13,7 +13,7 @@
 
 ## ✨ Sobre Mí
 
-Soy un desarrollador **Full-Stack Junior** con pasión por la tecnología y el aprendizaje continuo. Me especializo en **Angular y Laravel**, creando soluciones web escalables, eficientes y modernas. Me encanta enfrentar nuevos desafíos y aprender algo nuevo cada día. 🚀
+Soy un desarrollador **Full-Stack Junior** con pasión por la tecnología y el aprendizaje continuo. Me especializo en **Angular, React y Laravel**, creando soluciones web escalables, eficientes y modernas. Me encanta enfrentar nuevos desafíos y aprender algo nuevo cada día. 🚀
 
 - 🔭 Actualmente desarrollando proyectos con **Laravel y Angular**
 - 🌱 Explorando nuevas tecnologías y optimizando mi código
